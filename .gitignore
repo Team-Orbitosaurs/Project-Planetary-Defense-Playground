@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-#Environment Variables
+#Exculde local environment secrets from the repository
 .env
 
 # Distribution / packaging
