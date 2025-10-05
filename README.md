@@ -66,12 +66,12 @@ Follow these steps to run a local copy of the project:
 ## 👨‍💻 Team Orbitosaurs
 This project was built by the following team members:
 
-1. [Haffi Ansari](https://github.com/Haffi-Ansari)
-2. [Usman Amjad](https://github.com/usmanamjad7)
-3. [Hadiqa Siddique](https://github.com/hadiqasiddique)
-4. [Ayesha Aftab](https://github.com/aayeshaaftab2005-rgb)
-5. [Hadi Ansari](https://github.com/HadiAnsari1)
-6. [Shahzaib Kazmi](https://github.com/shahzaibkazmi30)
+1. [Haffi Ansari](https://github.com/Haffi-Ansari) - Team Lead
+2. [Usman Amjad](https://github.com/usmanamjad7) - Simulation Developer
+3. [Hadiqa Siddique](https://github.com/hadiqasiddique) - Data curator
+4. [Ayesha Aftab](https://github.com/aayeshaaftab2005-rgb) - Presenter/story teller
+5. [Hadi Ansari](https://github.com/HadiAnsari1) - UI designer
+6. [Shahzaib Kazmi](https://github.com/shahzaibkazmi30) - Research and Documentator
    
 ---
 
