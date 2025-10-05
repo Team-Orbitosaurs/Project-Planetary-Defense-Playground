@@ -1,0 +1,13 @@
+# Core Python Web Framework
+- fastapi
+- uvicorn
+
+# Environment Variable Management
+- python-dotenv
+
+# Data Handling & Scientific Computing
+# (Needed for 'Quantative Risk Assessment' using 'real NASA and USGS data')
+- requests
+- pandas
+- numpy
+- scipy
