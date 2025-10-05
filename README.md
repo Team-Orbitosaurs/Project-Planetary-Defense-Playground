@@ -77,3 +77,11 @@ This project was built by the following team members:
 
 ## 🌟 Future Improvements
 Given more time, we would focus on:
+1. **Dynamic Asteroid Selection:** Implement a user-friendly dropdown list populated with real, monitored asteroid data for a highly interactive experience.
+2. **Full Mobile Responsiveness:** Refactor the UI/CSS to ensure a seamless and functional experience on all screen sizes, including mobile devices.
+3. **User scenario saving:** Add authentication and database to allow users to save, track, and comapare the outcomes of their custom defense simulations.
+   
+--- 
+
+## License
+MIT License © 2025 Team Orbitosaurs
