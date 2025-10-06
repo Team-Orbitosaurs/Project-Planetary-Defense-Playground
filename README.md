@@ -63,7 +63,7 @@ Follow these steps to run a local copy of the project:
 
 ---
 
-## 👨‍💻 Team Orbitosaurs
+## Team Orbitosaurs
 This project was built by the following team members:
 
 1. [Haffi Ansari](https://github.com/Haffi-Ansari) - Team Lead
@@ -75,7 +75,7 @@ This project was built by the following team members:
    
 ---
 
-## 🌟 Future Improvements
+## Future Improvements
 Given more time, we would focus on:
 1. **Dynamic Asteroid Selection:** Implement a user-friendly dropdown list populated with real, monitored asteroid data for a highly interactive experience.
 2. **Full Mobile Responsiveness:** Refactor the UI/CSS to ensure a seamless and functional experience on all screen sizes, including mobile devices.
